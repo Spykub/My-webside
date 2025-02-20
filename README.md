@@ -1,1 +1,22 @@
-# My-webside
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My web</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>welcome</h1>
+    </header>
+  <main>
+    <p>ww</p>
+    <img src="https://via.placeholder.com/150" alt="รูปตัวอย่าง">
+    <button onclick="alert('สวัสดี!')">คลิกฉัน!</button>
+</main>
+    <footer>
+        <p>สร้างด้วย HTML/CSS</p>
+    </footer>
+</body>
+</html>
